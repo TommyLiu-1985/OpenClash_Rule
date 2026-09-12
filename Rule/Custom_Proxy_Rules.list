@@ -1,4 +1,4 @@
 # Tommy's Custom Proxy Rules
 ##DOMAIN-KEYWORD,1drv
 ##DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,dash.fscloud.cc
+DOMAIN-SUFFIX,fscloud.cc
